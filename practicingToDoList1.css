@@ -1,0 +1,19 @@
+body{
+    background: royalblue;
+}
+ol{
+    font-family: Impact;
+    font: 20px, "Impact";
+    color: navy;
+}
+div {
+    background: royalblue;
+    color: navy;
+    font-family: Impact;
+    font-size: 200px;
+
+}
+.button {
+    text-align: center;
+    margin: 0 auto;
+}
